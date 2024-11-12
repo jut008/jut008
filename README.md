@@ -12,8 +12,8 @@ I'm currently an undergraduate student studying computer science at UC San Diego
 
 </div>
 
-<div style="flex: 1; text-align: center;">
-    <img src="https://github.com/jut008/jut008/blob/main/fireflies.gif" width="300" alt="GIF">
+<div style="text-align: center; margin-left: 20px;">
+    <img src="https://github.com/jut008/jut008/blob/main/fireflies.gif" width="150" alt="GIF">
 </div>
 
 </div>
