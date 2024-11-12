@@ -1,8 +1,6 @@
 ### Hello~ 
 
-I'm a ...
-
-More stuff...
+I'm currently an undergraduate student studying computer science at UC San Diego. I'm currently working on an indie game called, Delivery Rush, where you the player have a limited time to deliver pizzas to mythical being in the town of Drakovia. I am also working on Sleep Buddies, a web application designed to support healthy sleep habits. Users can track their sleep patterns, receive insightful sleep reports, enjoy calming pre-sleep music, engage in guided meditation, and set personalized reminders for bedtime routines.
 
 - **Pronouns**: She/Her
 - **Ask me about**: ...
