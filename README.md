@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
 
@@ -12,7 +12,7 @@ I'm currently an undergraduate student studying computer science at UC San Diego
 
 </div>
 
-<div style="width: 150px; margin-left: 20px;">
+<div style="margin-left: 20px;">
     <img src="https://github.com/jut008/jut008/blob/main/fireflies.gif" width="150" alt="GIF">
 </div>
 
