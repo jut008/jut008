@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm a ...
+
+More stuff...
+
+- **Pronouns**: She/Her
+- **Ask me about**: ...
+- **How to reach me**: ...
+
+![GIF](https://github.com/jut008/jut008/blob/main/fireflies.gif)
 
 <!--
 **jut008/jut008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
