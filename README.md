@@ -15,7 +15,7 @@ I'm currently working on an indie game called *Delivery Rush*, where you, the pl
 
 <!-- Connect section -->
 
-### Connect with me & Learn more about me
+### Connect with me and learn more about me
 <p>
     <a href="https://www.linkedin.com/in/juktr/">
         <img src="https://img.shields.io/badge/-Judy%20Truong-002366?style=plastic&labelColor=002366&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/juktr/" alt="LinkedIn Badge">
