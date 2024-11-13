@@ -10,6 +10,8 @@ I'm currently working on an indie game called *Delivery Rush*, where you, the pl
 - **Pronouns**: She/Her
 - **Programming Languages**: C++, C, Python, Java, Html, Css, Javascript, GDScript
 - **How to reach me**: jut008@ucsd.edu or judytruong00@gmail.com
+- **Other Projects**: Personal Website Portfolio
+- **Hobbies**: Playing and developing video games, reading
 
 <!--
 **jut008/jut008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
