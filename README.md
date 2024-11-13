@@ -15,7 +15,7 @@ I'm currently working on an indie game called *Delivery Rush*, where you, the pl
 
 <!-- Connect section -->
 
-<h2>Connect with me</h2>
+### Connect with me
 <p>
     <a href="https://www.linkedin.com/in/juktr/">
         <img src="https://img.shields.io/badge/-Judy%20Truong-000080?style=plastic&labelColor=000080&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/juktr/" alt="LinkedIn Badge">
